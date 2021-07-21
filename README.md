@@ -11,3 +11,6 @@
 4. git add *
 5. git commit -m "this is a comment"
 6. git push origin master
+7. git checkout -b new-branch
+8. git push origin new-branch
+9. git pull origin new-branch
