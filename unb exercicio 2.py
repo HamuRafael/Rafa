@@ -11,6 +11,6 @@ def imc(a,p):
          return(f'Sobrepeso, IMC = {calculo}')
     elif calculo> 29.9:
         return('Obesidade, IMC = {calculo}')
-print(imc(1.72, 66.00))
+
     
     
